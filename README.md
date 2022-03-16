@@ -1,5 +1,5 @@
-# Pokedex em cards
-Projeto de Pokedex, feito pelos <a href="https://www.youtube.com/c/eliasef" target="_blank">Gemeos Dev</a> e modificado por mim.
+# Pokédex em cards
+Projeto de Pokédex, feito pelos <a href="https://www.youtube.com/c/eliasef" target="_blank">Gemeos Dev</a> e modificado por mim.
 
   - Clique <a href="https://eliasef.github.io/pokedex/" target="_blank">aqui</a> para acessar o projeto! 
   
