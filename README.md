@@ -13,4 +13,4 @@ Projeto de Pokedex, feito pelos <a href="https://www.youtube.com/c/eliasef" targ
  <br>
   - Clique <a href="https://eliasef.github.io/pokedex/" target="_blank">aqui</a> para acessar o projeto! 
   
-<img width="500px" alt="GIF" src="https://fv9-4.failiem.lv/thumb_show.php?i=7a8hdp7ej&view"/>
+<img width="500px" alt="GIF" src="https://media1.giphy.com/media/NvE8Z2eyO46p44cSvC/giphy.gif?cid=790b76113708bccdaae1f5b7cda4153e6e9e1c04065e119c&rid=giphy.gif"/>
